@@ -3,4 +3,6 @@
  */
 
 public class Testclass {
+
+    public void test(){}
 }
